@@ -1,2 +1,2 @@
 # repotestsenai
-Este repositório é um texto
+Este repositório é um teste
